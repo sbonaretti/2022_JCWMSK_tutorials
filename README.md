@@ -1,5 +1,6 @@
 # JCW | MSK Tutorials
 
-Material for the Tutorials a the Jupyter Community Workshop [Building the Jupyter Community in MSK Imaging Research](https://github.com/JCMSK/2022_JCW/blob/main/README.md), June 9-11 2022, Maastricht, The Netherlands
+Material for the Tutorials at the Jupyter Community Workshop [Building the Jupyter Community in MSK Imaging Research](https://github.com/JCMSK/2022_JCW/blob/main/README.md), June 9-11 2022, Maastricht, The Netherlands
 
-The material will be available in a few days!
+To download the material, click on the *Code* green button above, and then select *Download ZIP* 
+Save and unzip the file in any folder of your choice
